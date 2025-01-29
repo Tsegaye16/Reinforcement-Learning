@@ -1,0 +1,12 @@
+cv2
+gymnasium
+json
+matplotlib
+mss
+numpy
+os
+pydirectinput
+pytesseract
+re
+stable_baselines3
+time
